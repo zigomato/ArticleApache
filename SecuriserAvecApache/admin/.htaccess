@@ -1,4 +1,4 @@
 AuthName "Section administration"
 AuthType Basic
-AuthUserFile "C:\wamp64\www\Test\admin\.htpasswd"
+AuthUserFile "MON_CHEMIN_ABSOLU\.htpasswd"
 Require valid-user
